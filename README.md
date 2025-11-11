@@ -1,6 +1,6 @@
 # 🩺 AI 닥터톡 (AI Doctor Talk) - 24시간 음성대화 AI 건강 상담 서비스
 
-<img src="./public/image/완성화면.png" alt="완성화면" width='330px' height='250' style='display: block; margin: 0 auto;'>
+<img src="./public/image/완성화면.png" alt="완성화면" width='500px' height='280' style='display: block; margin: 0 auto;'>
 
 <br>
 <br>
@@ -15,25 +15,65 @@ Vapi.ai 이용으로 1분당 비용이 발생합니다.
 
 ## 🌟 프로젝트 소개
 
+<img src="./public/image/steps/intro.png" alt="사이트 소개" width='500px' height='250' style='display: block; margin: 0 auto;'>
+
+<br>
+
 'AI 닥터톡'은 사용자가 24시간 언제든 AI 의사와 음성으로 대화하며 건강 상담을 받을 수 있도록 설계된 웹 서비스입니다.
 
 간단한 건강에 대한 궁금증, 병원 방문이 어려운 시간대, 혹은 사소한 증상에 대한 고민이 있을 때, 'AI 닥터톡'은 사용자에게 즉각적이면서 맞춤형 AI 기반 건강 조언을 해드립니다.
 
 <br>
 
-## ✨ 주요 기능
+## ✨ 주요 기능 및 화면
+
+<img src="./public/image/완성화면.png" alt="완성화면" width='500px' height='280' style='display: block; margin: 0 auto;'>
+
+<br>
+
+- **📈 대시보드:** 사용자 친화적인 간단한 UI로 AI의사 목록 및 AI 추천받기를 할 수 있는 페이지입니다.
+
+<br>
+
+<img src="./public/image/steps/step2.png" alt="로그인" width='500px' height='350' style='display: block; margin: 0 auto;'>
+
+<br>
+
+- **🔒 사용자 인증:** Clerk을 통해 안전하고 간편한 사용자 로그인 및 회원가입 기능을 제공하며, 구글 간단로그인 또는 새 계정 생성을 선택할 수 있습니다. 일정 시간 사이트 사용이 없을 시 자동 로그아웃 됩니다.
+
+<br>
+
+<img src="./public/image/steps/step3.png" alt="증상 작성" width='500px' height='350' style='display: block; margin: 0 auto;'>
+
+<br>
+
+<img src="./public/image/steps/step4.png" alt="의사 추천" width='500px' height='300' style='display: block; margin: 0 auto;'>
+
+<br>
 
 - **🧑‍⚕️ 맞춤형 AI 의사 추천:** 사용자가 입력한 증상 정보를 기반으로 **DeepSeek** AI모델이 AI 의사를 추천해주는 기능을 포함합니다.(AI모델은 변경 가능)
+
+<br>
+
+<img src="./public/image/steps/step5.png" alt="의사 상담" width='500px' height='300' style='display: block; margin: 0 auto;'>
+
+<br>
 
 - **🧠 AI 의사와 상담:** OpenAI API(ChatGpt-4.1/AI모델은 변경 가능)를 통해 LLM(거대 언어 모델)을 활용하여 사용자의 증상과 질문을 이해하고 신뢰성 있는 건강 정보를 제공합니다.
 
 - **🎙️ 실시간 음성대화:** Vapi Voice Provider(google gemini를 transcriptor로 포함)를 활용하여 사용자와 AI의사 간의 자연스러운 음성 대화가 가능합니다.
 
+<br>
+
+<img src="./public/image/steps/step6.png" alt="보고서" width='500px' height='350' style='display: block; margin: 0 auto;'>
+
+<br>
+
+<img src="./public/image/steps/step7.png" alt="차트" width='500px' height='350' style='display: block; margin: 0 auto;'>
+
+<br>
+
 - **📄 상담 내용 기록 및 요약:** 상담 후 대화 내용이 보고서에 기록되며, 사용자는 그래프와 함께 보고서 목록을 볼 수 있습니다.
-
-- **🔒 사용자 인증:** Clerk을 통해 안전하고 간편한 사용자 로그인 및 회원가입 기능을 제공하며, 구글 간단로그인 또는 새 계정 생성을 선택할 수 있습니다.
-
-- **📈 대시보드:** 사용자 친화적인 간단한 UI로 AI의사 목록 및 AI 추천받기를 할 수 있는 페이지입니다.
 
 <br>
 
