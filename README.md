@@ -1,6 +1,6 @@
 # 🩺 AI 닥터톡 (AI Doctor Talk) - 24시간 음성대화 AI 건강 상담 서비스
 
-<img src="./public/image/완성화면.png" alt="완성화면" width='500px' height='280' style='display: block; margin: 0 auto;'>
+<img src="./public/image/완성화면.png" alt="완성화면" width='600px' height='400' style='display: block; margin: 0 auto;'>
 
 <br>
 <br>
@@ -15,7 +15,7 @@ Vapi.ai 이용으로 1분당 비용이 발생합니다.
 
 ## 🌟 프로젝트 소개
 
-<img src="./public/image/steps/intro.png" alt="사이트 소개" width='500px' height='250' style='display: block; margin: 0 auto;'>
+<img src="./public/image/steps/intro.png" alt="사이트 소개" width='600px' height='400' style='display: block; margin: 0 auto;'>
 
 <br>
 
@@ -27,7 +27,7 @@ Vapi.ai 이용으로 1분당 비용이 발생합니다.
 
 ## ✨ 주요 기능 및 화면
 
-<img src="./public/image/완성화면.png" alt="완성화면" width='500px' height='280' style='display: block; margin: 0 auto;'>
+<img src="./public/image/완성화면.png" alt="완성화면" width='600px' height='400' style='display: block; margin: 0 auto;'>
 
 <br>
 
@@ -35,7 +35,7 @@ Vapi.ai 이용으로 1분당 비용이 발생합니다.
 
 <br>
 
-<img src="./public/image/steps/step2.png" alt="로그인" width='500px' height='350' style='display: block; margin: 0 auto;'>
+<img src="./public/image/steps/step2.png" alt="로그인" width='600px' height='400' style='display: block; margin: 0 auto;'>
 
 <br>
 
@@ -43,11 +43,11 @@ Vapi.ai 이용으로 1분당 비용이 발생합니다.
 
 <br>
 
-<img src="./public/image/steps/step3.png" alt="증상 작성" width='500px' height='350' style='display: block; margin: 0 auto;'>
+<img src="./public/image/steps/step3.png" alt="증상 작성" width='600px' height='400' style='display: block; margin: 0 auto;'>
 
 <br>
 
-<img src="./public/image/steps/step4.png" alt="의사 추천" width='500px' height='300' style='display: block; margin: 0 auto;'>
+<img src="./public/image/steps/step4.png" alt="의사 추천" width='600px' height='400' style='display: block; margin: 0 auto;'>
 
 <br>
 
@@ -55,7 +55,7 @@ Vapi.ai 이용으로 1분당 비용이 발생합니다.
 
 <br>
 
-<img src="./public/image/steps/step5.png" alt="의사 상담" width='500px' height='300' style='display: block; margin: 0 auto;'>
+<img src="./public/image/steps/step5.png" alt="의사 상담" width='600px' height='400' style='display: block; margin: 0 auto;'>
 
 <br>
 
@@ -65,11 +65,11 @@ Vapi.ai 이용으로 1분당 비용이 발생합니다.
 
 <br>
 
-<img src="./public/image/steps/step6.png" alt="보고서" width='500px' height='350' style='display: block; margin: 0 auto;'>
+<img src="./public/image/steps/step6.png" alt="보고서" width='600px' height='400' style='display: block; margin: 0 auto;'>
 
 <br>
 
-<img src="./public/image/steps/step7.png" alt="차트" width='500px' height='350' style='display: block; margin: 0 auto;'>
+<img src="./public/image/steps/step7.png" alt="차트" width='600px' height='400' style='display: block; margin: 0 auto;'>
 
 <br>
 
